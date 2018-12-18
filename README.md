@@ -38,9 +38,9 @@ pip install opencv-python // OpenCV를 위한 패키지
 ### Sample Images
 ![](Sample_Images/5.png)<br/><br/>
 ![](Sample_Images/1.png)<br/><br/>
-![](Sample_Images/2.png | width=100)<br/><br/>
-![](Sample_Images/3.png | width=100)<br/><br/>
-![](Sample_Images/4.png)<br/><br/>
+![](Sample_Images/2.png)<br/><br/>
+
+<img src="Sample_Images/3.png" width="256" height="400">
 
 <img src="Sample_Images/4.png" width="256" height="256">
 
