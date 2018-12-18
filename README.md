@@ -35,5 +35,8 @@ pip install opencv-python // OpenCV를 위한 패키지
 
 3. Execute Model+Socket.ipynb jupyter notebook python code with jupyter notebook
 
+### Sample Images
+
+![](Sample_Images/1.png)
 
 #### Thank you
