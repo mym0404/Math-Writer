@@ -4,6 +4,15 @@ Unity Game &amp; MNIST Machine Learning
 
 Author - MJ Studio
 
+### Project
+
+![](Sample_Images/5.png)<br/><br/>
+
+Random math question will be suggested.
+
+Just write a number and send image to server.
+ 
+
 ### Steps
 
 You must install some packages for execute jupyter notebook source code.
@@ -33,7 +42,7 @@ pip install opencv-python // package for OpenCV를 위한 패키지
 	3. Execute Model+Socket.ipynb jupyter notebook python code with jupyter notebook
 
 ### Sample Images
-![](Sample_Images/5.png)<br/><br/>
+
 ![](Sample_Images/1.png)<br/><br/>
 ![](Sample_Images/2.png)<br/><br/>
 
