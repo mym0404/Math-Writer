@@ -20,20 +20,17 @@ pip install opencv-python // package for OpenCV를 위한 패키지
 #### -Node : Node.js project directory
 
 #### -Tensorflow
-	ImageCrawler.ipynb : Crawler for downloading 1000 images with different 20 keywords<br/>
-	Image2csv.ipynb : Program for preprocessing images and convert to csv data set<br/>
-	mnist-non_mnist.csv : 1000 MNIST test dataset + 850 Non-MNIST test dataset<br/>
-	mnist-non_mnist_test.csv : Dataset for testing models<br/>
-	Model+Socket.ipynb : Main Model + Socket source code<br/>
-	non-mnist : directory for 1000 images from crawling<br/>
+	ImageCrawler.ipynb : Crawler for downloading 1000 images with different 20 keywords
+	Image2csv.ipynb : Program for preprocessing images and convert to csv data set
+	mnist-non_mnist.csv : 1000 MNIST test dataset + 850 Non-MNIST test dataset
+	mnist-non_mnist_test.csv : Dataset for testing models
+	Model+Socket.ipynb : Main Model + Socket source code
+	non-mnist : directory for 1000 images from crawling
 	
 ### Usage
-
-1. You can execute unity game in Unity Build directory.
-
-2. In the Node directory, you can enter "npm start" after downloading node modules.
-
-3. Execute Model+Socket.ipynb jupyter notebook python code with jupyter notebook
+	1. You can execute unity game in Unity Build directory.
+	2. In the Node directory, you can enter "npm start" after downloading node modules.
+	3. Execute Model+Socket.ipynb jupyter notebook python code with jupyter notebook
 
 ### Sample Images
 ![](Sample_Images/5.png)<br/><br/>
