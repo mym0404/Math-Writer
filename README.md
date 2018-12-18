@@ -13,13 +13,13 @@ pip install opencv-python // package for OpenCV를 위한 패키지
 
 ### Files Descriptions
 
--Unity Build : Unity game build(.exe for Windows)
+#### -Unity Build : Unity game build(.exe for Windows)
 
--Math Writer : Unity game project directory
+#### -Math Writer : Unity game project directory
 
--Node : Node.js project directory
+#### -Node : Node.js project directory
 
--Tensorflow
+#### -Tensorflow
 	ImageCrawler.ipynb : Crawler for downloading 1000 images with different 20 keywords<br/>
 	Image2csv.ipynb : Program for preprocessing images and convert to csv data set<br/>
 	mnist-non_mnist.csv : 1000 MNIST test dataset + 850 Non-MNIST test dataset<br/>
